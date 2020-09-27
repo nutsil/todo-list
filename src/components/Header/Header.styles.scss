@@ -1,0 +1,11 @@
+@import "src/assets/scss/variables.scss";
+
+.header-title {
+  background-color: $primary-dark;
+  color: $base;
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.3);
+}
