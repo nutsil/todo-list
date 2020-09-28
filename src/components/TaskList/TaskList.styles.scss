@@ -1,0 +1,14 @@
+@import "src/assets/scss/variables.scss";
+
+.task-list {
+  color: $primary-dark;
+  padding: 40px;
+
+  li {
+    margin: 0 0 15px;
+
+    &:last-child {
+      margin: 0;
+    }
+  }
+}
